@@ -14,7 +14,7 @@ A Chrome extension that automatically fills in your email and password on Workda
 
 ### From Chrome Web Store
 
-*(Coming soon)*
+* [Chrome extension link](https://chromewebstore.google.com/detail/workday-account-auto-fill/imccdinemdmahngpbhnaanbnmabnjgla)
 
 ### Manual (Developer Mode)
 
